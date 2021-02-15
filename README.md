@@ -29,13 +29,13 @@ How To Install
 
 Notable Changes :-
 
-    Combo Box Item Background Color Fix.
-    Combo Box Item Hover Color Fix.
-    Start Window active description text color Fix.
-    Start Window selected description text color fix.
-    New Project content description on mouse hover color improved
-    New Project selected content description text color improved
-    New Hyperlinks color.
-    manifest textbox color fixed.
+    1. Combo Box Item Background Color Fix.
+    2. Combo Box Item Hover Color Fix.
+    3. Start Window active description text color Fix.
+    4. Start Window selected description text color fix.
+    5. New Project content description on mouse hover color improved
+    6. New Project selected content description text color improved
+    7. New Hyperlinks color.
+    8. manifest textbox color fixed.
 
 
