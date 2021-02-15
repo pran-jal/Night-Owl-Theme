@@ -22,3 +22,20 @@ How To Install
 
 
  ! If you want to modify the theme then use Night Owl Theme.sln File.
+ 
+ 
+ 
+ 
+
+Notable Changes :-
+
+    Combo Box Item Background Color Fix.
+    Combo Box Item Hover Color Fix.
+    Start Window active description text color Fix.
+    Start Window selected description text color fix.
+    New Project content description on mouse hover color improved
+    New Project selected content description text color improved
+    New Hyperlinks color.
+    manifest textbox color fixed.
+
+
