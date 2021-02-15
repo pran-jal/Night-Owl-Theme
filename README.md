@@ -38,9 +38,6 @@ Notable Changes :-
     6. New Project selected content description text color improved
     7. New Hyperlinks color.
     8. manifest textbox color fixed.
-    ![alt text] ( https://github.com/pran-jal/Night-Owl-Theme/blob/main/New-Project.png )
-    ![alt text] ( https://github.com/pran-jal/Night-Owl-Theme/blob/main/Start-Window.png )
-    
-    
-![alt text] ( https://github.com/pran-jal/Night-Owl-Theme/blob/main/New-Project.png )
-![alt text] ( https://github.com/pran-jal/Night-Owl-Theme/blob/main/Start-Window.png )
+    ![alt text]( https://github.com/pran-jal/Night-Owl-Theme/blob/main/New-Project.png )
+![alt text]( https://github.com/pran-jal/Night-Owl-Theme/blob/main/New-Project.png )
+![alt text]( https://github.com/pran-jal/Night-Owl-Theme/blob/main/Start-Window.png )
