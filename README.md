@@ -29,6 +29,7 @@ How To Install
 
 Notable Changes :-
 
+
     1. Combo Box Item Background Color Fix.
     2. Combo Box Item Hover Color Fix.
     3. Start Window active description text color Fix.
@@ -37,7 +38,7 @@ Notable Changes :-
     6. New Project selected content description text color improved
     7. New Hyperlinks color.
     8. manifest textbox color fixed.
-    ![alt text]( https://github.com/pran-jal/Night-Owl-Theme/New-Project.png )
-    ![alt text]( https://github.com/pran-jal/Night-Owl-Theme/Start-Window.png )
-
-
+    
+    
+![alt text] ( https://github.com/pran-jal/Night-Owl-Theme/New-Project.png )
+![alt text] ( https://github.com/pran-jal/Night-Owl-Theme/Start-Window.png )
