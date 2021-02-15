@@ -2,7 +2,7 @@
 Night Owl Theme for Visual Studio 2019 based on Night Owl theme for VS Code.
 
 
-
+https://github.com/pran-jal/Night-Owl-Theme/blob/main/Preview.png
 
 
 Prerequisites:-
