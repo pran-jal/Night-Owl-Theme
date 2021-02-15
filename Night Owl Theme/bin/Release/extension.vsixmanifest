@@ -1,0 +1,23 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Night_Owl_Theme.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="5.2" Language="en-US" Publisher="Pranjal" />
+    <DisplayName>Night_Owl_Theme</DisplayName>
+    <Description xml:space="preserve">Night Owl Theme for visual studio based on the Night Owl Theme for VS Code.</Description>
+    <MoreInfo>https://github.com/pran-jal/Night-Owl-Theme/</MoreInfo>
+    <PreviewImage>Preview.png</PreviewImage>
+    <Tags>NightOwl, night owl, night, owl, theme, dark theme</Tags>
+    <Preview>true</Preview>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,17.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+  </Assets>
+</PackageManifest>
