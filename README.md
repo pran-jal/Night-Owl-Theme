@@ -26,7 +26,7 @@ How To Install
  
  
  
-
+New Version (v6.0) With Some Fix
 Notable Changes :-
 
 
