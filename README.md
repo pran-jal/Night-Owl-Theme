@@ -4,7 +4,6 @@ Night Owl Theme for Visual Studio 2019 based on Night Owl theme for VS Code.
 
 ![alt text]( https://github.com/pran-jal/Night-Owl-Theme/blob/main/Preview.png )
 
-
 Prerequisites:-
 1. Visual Studio 2019 (duh..)
 2. Visual Studio Color Theme Designer Extension ( https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner )
@@ -12,7 +11,7 @@ Installed.
 
 
 
-How To Install
+# How To Install
 1. Run Night Owl Theme.vsix
 2. Run Visual Studio
 3. Go to Tools->options
@@ -21,12 +20,12 @@ How To Install
 
 
 
- ! If you want to modify the theme then use Night Owl Theme.sln File.
+ # If you want to modify the theme then use Night Owl Theme.sln File.
  
  
  
  
-New Version (v6.0) With Some Fix.
+#New Version (v6.0) With Some Fix.
 
 Notable Changes :-
 
