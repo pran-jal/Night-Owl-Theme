@@ -25,7 +25,7 @@ Installed.
  
  
  
-#New Version (v6.0) With Some Fix.
+# New Version (v6.0) With Some Fix.
 
 Notable Changes :-
 
